@@ -1,0 +1,22 @@
+{
+    "fields": [
+        "deveui",
+        "horodate",
+        "degre_celsius"
+    ],
+    "layer_name": "biotope.temperature",
+    "nb_results": 2,
+    "table_href": "https://download.data.grandlyon.com/ws/timeseries/biotope.temperature.json",
+    "values": [
+        {
+            "degre_celsius": 26.375,
+            "deveui": "70b3d580a01005fd",
+            "horodate": "2018-07-24 10:39:47+02:00"
+        },
+        {
+            "degre_celsius": 25.625,
+            "deveui": "70b3d580a01005fd",
+            "horodate": "2018-07-24 10:09:47+02:00"
+        }
+    ]
+}

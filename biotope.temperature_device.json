@@ -1,0 +1,342 @@
+{
+  "fields": [
+    "deveui", 
+    "nom", 
+    "address", 
+    "insee", 
+    "status", 
+    "battery_level", 
+    "datemaj", 
+    "gid", 
+    "lon", 
+    "lat"
+  ], 
+  "layer_name": "biotope.temperature_device", 
+  "nb_results": 19, 
+  "table_href": "https://download.data.grandlyon.com/ws/rdata/biotope.temperature_device.json", 
+  "values": [
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Lyon", 
+        "postalCode": "69003", 
+        "streetAddress": "Site Garibaldi Est"
+      }, 
+      "battery_level": 16, 
+      "datemaj": "2022-07-04 08:19:43+02:00", 
+      "deveui": "70b3d580a01005fd", 
+      "gid": 6, 
+      "insee": "69383", 
+      "lat": 45.760798, 
+      "lon": 4.852945, 
+      "nom": "SL-T-P6", 
+      "status": "inactive"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Meyzieu", 
+        "postalCode": "69330", 
+        "streetAddress": "40 Avenue de la Lib\u00e9ration"
+      }, 
+      "battery_level": null, 
+      "datemaj": "2021-05-17 16:21:53+02:00", 
+      "deveui": "70b3d580a0100644", 
+      "gid": 11, 
+      "insee": "69282", 
+      "lat": 45.775154, 
+      "lon": 4.998943, 
+      "nom": "SL-T-G10", 
+      "status": "inactive"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Ecully", 
+        "postalCode": "69130", 
+        "streetAddress": "Chemin Louis Chirpaz/avenue Edouard Eynard"
+      }, 
+      "battery_level": 16, 
+      "datemaj": "2023-06-09 15:37:25+02:00", 
+      "deveui": "70b3d580a01006cf", 
+      "gid": 15, 
+      "insee": "69081", 
+      "lat": 45.778851, 
+      "lon": 4.778705, 
+      "nom": "SL-T-G5", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Lyon", 
+        "postalCode": "69003", 
+        "streetAddress": "Site Garibaldi Sud"
+      }, 
+      "battery_level": 2, 
+      "datemaj": "2023-06-09 14:29:02+02:00", 
+      "deveui": "70b3d580a0100605", 
+      "gid": 8, 
+      "insee": "69383", 
+      "lat": 45.758465, 
+      "lon": 4.852542, 
+      "nom": "SL-T-P8", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Lyon", 
+        "postalCode": "69003", 
+        "streetAddress": "Site Garibaldi Section2"
+      }, 
+      "battery_level": 2, 
+      "datemaj": "2023-06-09 15:30:27+02:00", 
+      "deveui": "70b3d580a010054c", 
+      "gid": 3, 
+      "insee": "69383", 
+      "lat": 45.761145, 
+      "lon": 4.851818, 
+      "nom": "SL-T-P3", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Lyon", 
+        "postalCode": "69003", 
+        "streetAddress": "Site Garibaldi Ouest"
+      }, 
+      "battery_level": 2, 
+      "datemaj": "2023-06-09 15:36:29+02:00", 
+      "deveui": "70b3d580a0100550", 
+      "gid": 4, 
+      "insee": "69383", 
+      "lat": 45.760508, 
+      "lon": 4.849077, 
+      "nom": "SL-T-P4", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Saint-Priest", 
+        "postalCode": "69800", 
+        "streetAddress": "1 rue Henri Bordeaux"
+      }, 
+      "battery_level": 9, 
+      "datemaj": "2023-06-09 15:57:35+02:00", 
+      "deveui": "70b3d580a0100648", 
+      "gid": 9, 
+      "insee": "69290", 
+      "lat": 45.689378, 
+      "lon": 4.956662, 
+      "nom": "SL-T-G12", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Saint-Priest", 
+        "postalCode": "69800", 
+        "streetAddress": "Route de Lyon"
+      }, 
+      "battery_level": 9, 
+      "datemaj": "2023-06-09 15:59:57+02:00", 
+      "deveui": "70b3d580a0100647", 
+      "gid": 10, 
+      "insee": "69290", 
+      "lat": 45.710283, 
+      "lon": 4.903666, 
+      "nom": "SL-T-G11", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Lyon", 
+        "postalCode": "69003", 
+        "streetAddress": "Site Garibaldi Nord"
+      }, 
+      "battery_level": 2, 
+      "datemaj": "2023-06-09 15:42:45+02:00", 
+      "deveui": "70b3d580a0100543", 
+      "gid": 1, 
+      "insee": "69383", 
+      "lat": 45.763484, 
+      "lon": 4.851277, 
+      "nom": "SL-T-P1", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Lyon", 
+        "postalCode": "69003", 
+        "streetAddress": "Site Garibaldi Section1"
+      }, 
+      "battery_level": 2, 
+      "datemaj": "2023-06-09 15:31:11+02:00", 
+      "deveui": "70b3d580a0100549", 
+      "gid": 2, 
+      "insee": "69383", 
+      "lat": 45.761757, 
+      "lon": 4.851705, 
+      "nom": "SL-T-P2", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Lyon", 
+        "postalCode": "69003", 
+        "streetAddress": "Site Garibaldi Section4"
+      }, 
+      "battery_level": 2, 
+      "datemaj": "2023-06-09 15:54:25+02:00", 
+      "deveui": "70b3d580a0100600", 
+      "gid": 7, 
+      "insee": "69383", 
+      "lat": 45.759356, 
+      "lon": 4.852123, 
+      "nom": "SL-T-P7", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Lyon", 
+        "postalCode": "69003", 
+        "streetAddress": "Site Garibaldi Section3"
+      }, 
+      "battery_level": 2, 
+      "datemaj": "2023-06-09 15:34:14+02:00", 
+      "deveui": "70b3d580a01005fa", 
+      "gid": 5, 
+      "insee": "69383", 
+      "lat": 45.76032, 
+      "lon": 4.851946, 
+      "nom": "SL-T-P5", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Saint-Cyr-au-Mont-d'Or", 
+        "postalCode": "69450", 
+        "streetAddress": "43-47 route de Lyon"
+      }, 
+      "battery_level": 16, 
+      "datemaj": "2023-06-09 15:43:58+02:00", 
+      "deveui": "70b3d580a01007a5", 
+      "gid": 17, 
+      "insee": "69191", 
+      "lat": 45.806979, 
+      "lon": 4.821077, 
+      "nom": "SL-T-G7", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Poleymieux-au-Mont-d'Or", 
+        "postalCode": "69250", 
+        "streetAddress": "414-449 Chemin du Cruy"
+      }, 
+      "battery_level": 16, 
+      "datemaj": "2023-06-09 15:42:37+02:00", 
+      "deveui": "70b3d580a0100652", 
+      "gid": 18, 
+      "insee": "69153", 
+      "lat": 45.857197, 
+      "lon": 4.802012, 
+      "nom": "SL-T-G8", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Lyon", 
+        "postalCode": "69007", 
+        "streetAddress": "105-117 Avenue Jean Jaur\u00e8s"
+      }, 
+      "battery_level": 16, 
+      "datemaj": "2023-06-09 14:13:16+02:00", 
+      "deveui": "70b3d580a0100654", 
+      "gid": 12, 
+      "insee": "69387", 
+      "lat": 45.743602, 
+      "lon": 4.840917, 
+      "nom": "SL-T-G2", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Irigny", 
+        "postalCode": "69540", 
+        "streetAddress": "Place Abb\u00e9 Pierre"
+      }, 
+      "battery_level": 16, 
+      "datemaj": "2023-06-09 15:36:10+02:00", 
+      "deveui": "70b3d580a0100656", 
+      "gid": 13, 
+      "insee": "69100", 
+      "lat": 45.672827, 
+      "lon": 4.823831, 
+      "nom": "SL-T-G3", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Vaulx-en-Velin", 
+        "postalCode": "69120", 
+        "streetAddress": "58 Avenue Roger Salengro"
+      }, 
+      "battery_level": 7, 
+      "datemaj": "2023-06-09 14:54:11+02:00", 
+      "deveui": "70b3d580a0100623", 
+      "gid": 19, 
+      "insee": "69256", 
+      "lat": 45.758908, 
+      "lon": 4.928605, 
+      "nom": "SL-T-G9", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "La Tour-de-Salvagny", 
+        "postalCode": "69890", 
+        "streetAddress": "Avenue du Casino"
+      }, 
+      "battery_level": 16, 
+      "datemaj": "2023-06-09 15:38:16+02:00", 
+      "deveui": "70b3d580a0100742", 
+      "gid": 16, 
+      "insee": "69250", 
+      "lat": 45.803818, 
+      "lon": 4.719458, 
+      "nom": "SL-T-G6", 
+      "status": "active"
+    }, 
+    {
+      "address": {
+        "addressCountry": "France", 
+        "addressLocality": "Grigny", 
+        "postalCode": "69520", 
+        "streetAddress": "17 Rue Adrien Dutartre"
+      }, 
+      "battery_level": 16, 
+      "datemaj": "2023-06-09 15:46:38+02:00", 
+      "deveui": "70b3d580a0100657", 
+      "gid": 14, 
+      "insee": "69096", 
+      "lat": 45.613456, 
+      "lon": 4.800357, 
+      "nom": "SL-T-G4", 
+      "status": "active"
+    }
+  ]
+}

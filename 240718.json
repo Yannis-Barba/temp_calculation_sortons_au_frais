@@ -1,0 +1,242 @@
+{
+    "fields": [
+        "deveui",
+        "horodate",
+        "degre_celsius"
+    ],
+    "layer_name": "biotope.temperature",
+    "nb_results": 46,
+    "table_href": "https://download.data.grandlyon.com/ws/timeseries/biotope.temperature.json",
+    "values": [
+        {
+            "degre_celsius": 26.625,
+            "deveui": "70b3d580a0100543",
+            "horodate": "2018-07-24 10:41:05+02:00"
+        },
+        {
+            "degre_celsius": 26.625,
+            "deveui": "70b3d580a0100543",
+            "horodate": "2018-07-24 10:41:04+02:00"
+        },
+        {
+            "degre_celsius": 25.1875,
+            "deveui": "70b3d580a0100543",
+            "horodate": "2018-07-24 10:11:05+02:00"
+        },
+        {
+            "degre_celsius": 25.1875,
+            "deveui": "70b3d580a0100543",
+            "horodate": "2018-07-24 10:11:04+02:00"
+        },
+        {
+            "degre_celsius": 25.0625,
+            "deveui": "70b3d580a0100549",
+            "horodate": "2018-07-24 10:40:29+02:00"
+        },
+        {
+            "degre_celsius": 24.3125,
+            "deveui": "70b3d580a0100549",
+            "horodate": "2018-07-24 10:10:29+02:00"
+        },
+        {
+            "degre_celsius": 25.0625,
+            "deveui": "70b3d580a010054c",
+            "horodate": "2018-07-24 10:39:46+02:00"
+        },
+        {
+            "degre_celsius": 24.125,
+            "deveui": "70b3d580a010054c",
+            "horodate": "2018-07-24 10:09:46+02:00"
+        },
+        {
+            "degre_celsius": 24.125,
+            "deveui": "70b3d580a010054c",
+            "horodate": "2018-07-24 10:09:45+02:00"
+        },
+        {
+            "degre_celsius": 26.0625,
+            "deveui": "70b3d580a0100550",
+            "horodate": "2018-07-24 10:39:38+02:00"
+        },
+        {
+            "degre_celsius": 25.1875,
+            "deveui": "70b3d580a0100550",
+            "horodate": "2018-07-24 10:09:38+02:00"
+        },
+        {
+            "degre_celsius": 25.0,
+            "deveui": "70b3d580a01005fa",
+            "horodate": "2018-07-24 10:38:53+02:00"
+        },
+        {
+            "degre_celsius": 24.0625,
+            "deveui": "70b3d580a01005fa",
+            "horodate": "2018-07-24 10:08:53+02:00"
+        },
+        {
+            "degre_celsius": 26.375,
+            "deveui": "70b3d580a01005fd",
+            "horodate": "2018-07-24 10:39:47+02:00"
+        },
+        {
+            "degre_celsius": 25.625,
+            "deveui": "70b3d580a01005fd",
+            "horodate": "2018-07-24 10:09:47+02:00"
+        },
+        {
+            "degre_celsius": 25.6875,
+            "deveui": "70b3d580a0100600",
+            "horodate": "2018-07-24 10:37:02+02:00"
+        },
+        {
+            "degre_celsius": 24.875,
+            "deveui": "70b3d580a0100600",
+            "horodate": "2018-07-24 10:07:02+02:00"
+        },
+        {
+            "degre_celsius": 26.5,
+            "deveui": "70b3d580a0100605",
+            "horodate": "2018-07-24 10:37:26+02:00"
+        },
+        {
+            "degre_celsius": 26.5,
+            "deveui": "70b3d580a0100605",
+            "horodate": "2018-07-24 10:37:25+02:00"
+        },
+        {
+            "degre_celsius": 25.375,
+            "deveui": "70b3d580a0100605",
+            "horodate": "2018-07-24 10:07:26+02:00"
+        },
+        {
+            "degre_celsius": 25.375,
+            "deveui": "70b3d580a0100605",
+            "horodate": "2018-07-24 10:07:25+02:00"
+        },
+        {
+            "degre_celsius": 26.5,
+            "deveui": "70b3d580a0100623",
+            "horodate": "2018-07-24 10:56:34+02:00"
+        },
+        {
+            "degre_celsius": 25.5,
+            "deveui": "70b3d580a0100623",
+            "horodate": "2018-07-24 10:26:34+02:00"
+        },
+        {
+            "degre_celsius": 24.75,
+            "deveui": "70b3d580a0100623",
+            "horodate": "2018-07-24 09:56:34+02:00"
+        },
+        {
+            "degre_celsius": 25.625,
+            "deveui": "70b3d580a0100644",
+            "horodate": "2018-07-24 10:54:17+02:00"
+        },
+        {
+            "degre_celsius": 24.75,
+            "deveui": "70b3d580a0100644",
+            "horodate": "2018-07-24 10:24:17+02:00"
+        },
+        {
+            "degre_celsius": 26.1875,
+            "deveui": "70b3d580a0100647",
+            "horodate": "2018-07-24 11:00:48+02:00"
+        },
+        {
+            "degre_celsius": 25.25,
+            "deveui": "70b3d580a0100647",
+            "horodate": "2018-07-24 10:30:48+02:00"
+        },
+        {
+            "degre_celsius": 23.8125,
+            "deveui": "70b3d580a0100647",
+            "horodate": "2018-07-24 10:00:48+02:00"
+        },
+        {
+            "degre_celsius": 25.9375,
+            "deveui": "70b3d580a0100648",
+            "horodate": "2018-07-24 11:02:02+02:00"
+        },
+        {
+            "degre_celsius": 25.625,
+            "deveui": "70b3d580a0100648",
+            "horodate": "2018-07-24 10:32:02+02:00"
+        },
+        {
+            "degre_celsius": 24.25,
+            "deveui": "70b3d580a0100648",
+            "horodate": "2018-07-24 10:02:02+02:00"
+        },
+        {
+            "degre_celsius": 29.6875,
+            "deveui": "70b3d580a0100654",
+            "horodate": "2018-07-24 10:58:59+02:00"
+        },
+        {
+            "degre_celsius": 29.625,
+            "deveui": "70b3d580a0100654",
+            "horodate": "2018-07-24 10:28:59+02:00"
+        },
+        {
+            "degre_celsius": 26.75,
+            "deveui": "70b3d580a0100654",
+            "horodate": "2018-07-24 09:58:59+02:00"
+        },
+        {
+            "degre_celsius": 28.75,
+            "deveui": "70b3d580a0100656",
+            "horodate": "2018-07-24 10:55:26+02:00"
+        },
+        {
+            "degre_celsius": 28.0,
+            "deveui": "70b3d580a0100656",
+            "horodate": "2018-07-24 10:25:26+02:00"
+        },
+        {
+            "degre_celsius": 26.6875,
+            "deveui": "70b3d580a0100656",
+            "horodate": "2018-07-24 09:55:26+02:00"
+        },
+        {
+            "degre_celsius": 28.6875,
+            "deveui": "70b3d580a01006cf",
+            "horodate": "2018-07-24 11:02:53+02:00"
+        },
+        {
+            "degre_celsius": 28.0625,
+            "deveui": "70b3d580a01006cf",
+            "horodate": "2018-07-24 10:32:53+02:00"
+        },
+        {
+            "degre_celsius": 26.625,
+            "deveui": "70b3d580a01006cf",
+            "horodate": "2018-07-24 10:02:53+02:00"
+        },
+        {
+            "degre_celsius": 26.375,
+            "deveui": "70b3d580a0100742",
+            "horodate": "2018-07-24 11:00:22+02:00"
+        },
+        {
+            "degre_celsius": 27.625,
+            "deveui": "70b3d580a0100742",
+            "horodate": "2018-07-24 10:30:22+02:00"
+        },
+        {
+            "degre_celsius": 26.4375,
+            "deveui": "70b3d580a0100742",
+            "horodate": "2018-07-24 10:00:22+02:00"
+        },
+        {
+            "degre_celsius": 25.5,
+            "deveui": "70b3d580a01007a5",
+            "horodate": "2018-07-24 10:54:44+02:00"
+        },
+        {
+            "degre_celsius": 25.125,
+            "deveui": "70b3d580a01007a5",
+            "horodate": "2018-07-24 10:24:44+02:00"
+        }
+    ]
+}
